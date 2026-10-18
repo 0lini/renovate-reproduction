@@ -2,4 +2,4 @@ defaultNamespace: external-dns
 helm:
   releaseName: external-dns
   chart: oci://registry-1.docker.io/bitnamicharts/external-dns
-  version: 7.1.2
+  version: 9.0.3
